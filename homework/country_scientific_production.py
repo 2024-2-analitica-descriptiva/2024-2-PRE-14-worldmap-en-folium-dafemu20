@@ -105,5 +105,6 @@ def make_worldmap():
     plot_world_map(countries)
 
 
+# Prueba de la función principal
 if __name__ == "__main__":
     make_worldmap()
